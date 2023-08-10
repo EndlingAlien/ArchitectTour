@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 959b4e8ae87796d4d94a16ba64ad9420
+guid: 69f6974e5a519450d81cd3d7fa6f2950
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - Bebas Neue
+  - Skeleton Blood
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
