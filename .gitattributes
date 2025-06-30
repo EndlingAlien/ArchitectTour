@@ -1,2 +1,17 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Ignore Unity auto-generated clutter for GitHub Linguist
+*.meta linguist-vendored
+*.mat linguist-vendored
+*.anim linguist-vendored
+*.prefab linguist-vendored
+*.unity linguist-vendored
+*.asset linguist-vendored
+*.json linguist-vendored
+
+# Ignore entire folders
+ProjectSettings/* linguist-vendored
+Assets/GuidedProject/Imported Assets/* linguist-vendored
+
+# Force C# to register
+*.cs linguist-language=C#
