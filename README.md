@@ -1,6 +1,6 @@
 # Architect Tour
 
-**Architect Tour** is an immersive, self-contained Unity experience that invites you to explore a haunting murder scene through in-game security cameras. You don’t play a character — you *are* the cameras, silently witnessing the eerie aftermath inside a mysterious house.
+**Architect Tour** is an immersive, self-contained Unity experience that invites you to explore a haunting murder scene through in-game security cameras. You don’t play a character, you *are* the cameras, silently witnessing the eerie aftermath inside a mysterious house.
 
 ---
 
@@ -12,10 +12,10 @@ Built as part of Unity’s Creative Core course, this project is my deep dive in
 
 ## What to Expect
 
-- Navigate multiple camera feeds inside the house
+- Navigate 4 camera feeds inside the house
 - Subtle environmental storytelling through lighting, props, and sound
 - A quiet, unsettling atmosphere meant to spark your imagination
-- No traditional gameplay — it’s an experience, a moment frozen in time
+- No traditional gameplay. It’s an experience, a moment frozen in time
 
 ---
 
@@ -23,8 +23,15 @@ Built as part of Unity’s Creative Core course, this project is my deep dive in
 
 - Unity (2021.x)
 - C#
-- Custom camera systems and UI overlays
-- Handcrafted sound design and VFX
+- Unity
+  - Basic Animation
+  - Particles & VFX
+  - Lighting
+  - Custom UI
+  - Post-Processing
+  - Soundscape
+  - Materials and Shaders
+  - Custom Cameras
 
 ---
 
