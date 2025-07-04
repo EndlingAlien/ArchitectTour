@@ -1,4 +1,4 @@
-# Architect Tour
+# The House (Architect Tour)
 
 **Architect Tour** is an immersive, self-contained Unity experience that invites you to explore a haunting murder scene through in-game security cameras. You don’t play a character, you *are* the cameras, silently witnessing the eerie aftermath inside a mysterious house.
 
@@ -37,7 +37,7 @@ Built as part of Unity’s Creative Core course, this project is my deep dive in
 
 ## Status
 
-**Complete** — Fully fleshed out, packaged, and ready to upload to Itch.io.
+**Complete** — Fully fleshed out, packaged, and published on [Itch.io](https://endlingalien.itch.io/the-house)
 
 ---
 
@@ -47,7 +47,7 @@ This was an opportunity to stretch beyond gameplay mechanics and focus on narrat
 
 ---
 
-## Coming Soon
+## Try it out:
 
-Playable build will be available on Itch.io soon.
+Try it here: [The House on Itch.io](https://endlingalien.itch.io/the-house)
 
